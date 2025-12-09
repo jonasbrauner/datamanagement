@@ -8,4 +8,4 @@ This is my 2nd commit to a branch
 
 library(pryr)
 
-RUN apt-get update && apt-get insall -y git wget
+RUN apt-get update && apt-get install -y git curl 
