@@ -7,3 +7,5 @@ Run apt-get update && apt-get install -y git
 This is my 2nd commit to a branch
 
 library(pryr)
+
+RUN apt-get update && apt-get install -y git curl 
